@@ -1,0 +1,11 @@
+*.mov
+*.mp4
+*.zip
+*.ipynb
+.ipynb_checkpoints/
+archive/
+images_in_all_jpg/
+images_in_all_png/
+images_out_all/
+images_out_dips/
+open-sans/
